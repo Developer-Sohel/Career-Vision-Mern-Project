@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "category": "Business",
+    "img": "https://i.ibb.co.com/dKvPP3Q/Business-Analyses.jpg",
+    "title": "Business-Analyses",
+    "description": "We are seeking a highly skilled Python engineer to join our growing team.",
+    "author_name": "John Doe",
+    "author_img": "https://example.com/images/author1.jpg",
+    "time": "2024-11-20T10:30:00Z"
+  },
+
+  {
+    "id": 2,
+    "category": "Business",
+    "img": "https://i.ibb.co.com/3z3QwJM/Business-Empoloyed.jpg",
+    "title": "Business-Empoloyed",
+    "description": "Analyze financial data, prepare reports, and advise on investment decisions.",
+    "author_name": "Jane Smith",
+    "author_img": "https://example.com/images/author2.jpg",
+    "time": "2024-11-18T15:45:00Z"
+  },
+  {
+    "id": 3,
+    "category": "Business",
+    "img": "https://i.ibb.co.com/NFrkVVy/E-commerce.jpg",
+    "title": "E-commerce",
+    "description": "Provide compassionate and high-quality patient care in a hospital setting.",
+    "author_name": "David Lee",
+    "author_img": "https://example.com/images/author3.jpg",
+    "time": "2024-11-19T09:00:00Z"
+  },
+  {
+    "id": 4,
+    "category": "Business",
+    "img": "https://i.ibb.co.com/mNZp0f2/E-commerce-web.jpg",
+    "title": "E-commerce web",
+    "description": "Develop and execute digital marketing campaigns to increase brand awareness.",
+    "author_name": "Sarah Jones",
+    "author_img": "https://example.com/images/author4.jpg",
+    "time": "2024-11-21T14:15:00Z"
+  },
+  {
+    "id": 5,
+    "category": "Business",
+    "img": "https://i.ibb.co.com/MP9Qr49/Online-sels.jpg",
+    "title": "Online sels",
+    "description": "Inspire young minds and create a positive learning environment.",
+    "author_name": "Michael Brown",
+    "author_img": "https://example.com/images/author5.jpg",
+    "time": "2024-11-22T11:00:00Z"
+  },
+  {
+    "id": 6,
+    "category": "Business",
+    "img": "https://i.ibb.co.com/Lrrxr2P/Online-Shopping.jpg",
+    "title": "Online shopping",
+    "description": "Provide excellent customer service and assist with sales transactions.",
+    "author_name": "Emily Davis",
+    "author_img": "https://example.com/images/author6.jpg",
+    "time": "2024-11-23T16:30:00Z"
+  },
+  {
+    "id": 7,
+    "category": "Business",
+    "img": "https://i.ibb.co.com/Bts0H0y/Online-Stroge.jpg",
+    "title": "Online stroge",
+    "description": "Lead the culinary team and create innovative dishes for a renowned restaurant.",
+    "author_name": "Daniel Wilson",
+    "author_img": "https://example.com/images/author7.jpg",
+    "time": "2024-11-24T08:45:00Z"
+  },
+  {
+    "id": 8,
+    "category": "Business",
+    "img": "https://i.ibb.co.com/KXy2vtC/SEO-DIGITAL.jpg",
+    "title": "SEO",
+    "description": "Oversee all aspects of construction projects from planning to completion.",
+    "author_name": "Christopher Martinez",
+    "author_img": "https://example.com/images/author8.jpg",
+    "time": "2024-11-25T13:15:00Z"
+  },
+
+  {
+    "id": 9,
+    "category": "Jobs",
+    "img": "https://i.ibb.co.com/WpKD7Kh/Chief-Executive-officer.jpg",
+    "title": "Chief Executive officer",
+    "description": "Optimize production processes to improve efficiency and quality.",
+    "author_name": "Andrea Rodriguez",
+    "author_img": "https://example.com/images/author9.jpg",
+    "time": "2024-11-26T10:00:00Z"
+  },
+  {
+    "id": 10,
+    "category": "Jobs",
+    "img": "https://i.ibb.co.com/4YsgCDk/Corporate-Lawyers.jpg",
+    "title": "Corporate Lawyers",
+    "description": "Deliver goods safely and efficiently across long distances.",
+    "author_name": "Eric Nelson",
+    "author_img": "https://example.com/images/author10.jpg",
+    "time": "2024-11-27T14:30:00Z"
+  },
+  {
+    "id": 11,
+    "category": "Jobs",
+    "img": "https://i.ibb.co.com/mSY4Zq7/General-and-Orthopedic-Surgeons.jpg",
+    "title": "General and Orthopedic Surgeons:https",
+    "description": "Provide legal advice and representation to businesses on various matters.",
+    "author_name": "Ashley Young",
+    "author_img": "https://example.com/images/author11.jpg",
+    "time": "2024-11-28T09:15:00Z"
+  },
+  {
+    "id": 12,
+    "category": "Jobs",
+    "img": "https://i.ibb.co.com/f8QPx4L/Investment-Banker.jpg",
+    "title": "Invest ment bangkar",
+    "description": "Protect and serve the community by enforcing laws and maintaining order.",
+    "author_name": "Matthew Clark",
+    "author_img": "https://example.com/images/author12.jpg",
+    "time": "2024-11-29T13:45:00Z"
+  },
+  {
+    "id": 13,
+    "category": "Career",
+    "img": "https://i.ibb.co.com/KWQ6N2X/apps-development.jpg",
+    "title": "App Development",
+    "description": "Raise funds to support the mission of a non-profit organization.",
+    "author_name": "Lauren Lewis",
+    "author_img": "https://example.com/images/author13.jpg"
+  }
+]
